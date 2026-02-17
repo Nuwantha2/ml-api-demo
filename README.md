@@ -1,4 +1,4 @@
-# 🤖 Linear Regression Model Example
+# Linear Regression Model Example
 
 > A clean, minimal ML pipeline built with `scikit-learn` — covering data generation, model training, serialization, and prediction.
 
@@ -9,23 +9,23 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates a complete **Linear Regression ML pipeline** using `scikit-learn`. It's a great starting point if you're getting into ML engineering or data science. The model is trained on synthetic data and saved as a reusable `.pkl` file — ready to plug into an API or any downstream application.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📊 Generates synthetic regression data using `scikit-learn`
-- 🏋️ Trains a `LinearRegression` model
-- 💾 Serializes and saves the trained model as `model.pkl`
-- 🔮 Ready-to-use for real-time or batch predictions
-- 🧱 Clean, beginner-friendly project structure
+-  Generates synthetic regression data using `scikit-learn`
+-  Trains a `LinearRegression` model
+-  Serializes and saves the trained model as `model.pkl`
+-  Ready-to-use for real-time or batch predictions
+-  Clean, beginner-friendly project structure
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 ml-api-demo/
@@ -41,7 +41,7 @@ ml-api-demo/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repo
 
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> ✅ This will train the model and generate `model.pkl` in the project root.
+>  This will train the model and generate `model.pkl` in the project root.
 
 ---
 
@@ -99,7 +99,7 @@ print("Predictions:", predictions)
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 **Model Training Output:**
 
@@ -111,7 +111,7 @@ print("Predictions:", predictions)
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Package | Purpose |
 |---|---|
@@ -127,19 +127,19 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 What's Next?
+##  What's Next?
 
 Some ideas to level this project up:
 
-- 🌐 Wrap the model in a **FastAPI** or **Flask** REST API
-- 📈 Add **model evaluation metrics** (MSE, R² score)
-- 📊 Visualize predictions vs actuals with **matplotlib**
-- ☁️ Deploy to **Heroku**, **Render**, or **AWS Lambda**
-- 🔄 Swap synthetic data for a **real-world dataset**
+-  Wrap the model in a **FastAPI** or **Flask** REST API
+-  Add **model evaluation metrics** (MSE, R² score)
+-  Visualize predictions vs actuals with **matplotlib**
+-  Deploy to **Heroku**, **Render**, or **AWS Lambda**
+-  Swap synthetic data for a **real-world dataset**
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repo, open issues, or submit PRs.
 
@@ -151,14 +151,13 @@ Contributions are welcome! Feel free to fork the repo, open issues, or submit PR
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** — do whatever you want with it, fr.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Nuwantha** — [@Nuwantha2](https://github.com/Nuwantha2)
 
-> Built with 💙 for learning and growing in the ML space.
